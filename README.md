@@ -1,5 +1,5 @@
-Запуск приложения npm run dev <br/>
-Framework React.js
+Запуск приложения npm run dev. <br/>
+Framework React.js. <br/>
 Список использованных технологий:
 1. MaterialUI
 2. Nodemon
